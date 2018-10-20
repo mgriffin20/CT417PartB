@@ -1,0 +1,15 @@
+language: java
+jdk:
+  - openjdk8
+
+env:
+  - #env1=foo
+  - #env2=bar
+
+branches:
+  only:
+    - master
+build:
+  on_success:
+    - mvn clean
+    - mvn test
