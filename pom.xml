@@ -20,7 +20,7 @@
         <dependency>
 	    <groupId>com.github.mgriffin20</groupId>
 	    <artifactId>CT417</artifactId>
-	    <version>c2caec5446</version>
+	    <version>a773bb4fbb</version>
 	</dependency>
     </dependencies>
 </project>
